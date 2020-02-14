@@ -44,6 +44,7 @@
 		1149B3A623F69793008D86E7 = {
 			isa = PBXGroup;
 			children = (
+				1149B3C623F697B0008D86E7 /* Source */,
 				1149B3B123F69793008D86E7 /* RFRoundedProgressButton */,
 				1149B3B023F69793008D86E7 /* Products */,
 			);
@@ -60,7 +61,6 @@
 		1149B3B123F69793008D86E7 /* RFRoundedProgressButton */ = {
 			isa = PBXGroup;
 			children = (
-				1149B3C623F697B0008D86E7 /* Source */,
 				1149B3B223F69793008D86E7 /* AppDelegate.swift */,
 				1149B3B423F69793008D86E7 /* SceneDelegate.swift */,
 				1149B3B623F69793008D86E7 /* ExampleViewController.swift */,
